@@ -1,3 +1,8 @@
 [submodule "pelican-plugins/pelican-toc"]
     path = pelican-plugins/pelican-toc
     url = git@github.com:ingwinlu/pelican-toc.git
+
+[submodule "theme/papyrus"]
+    path = theme/papyrus
+    url = git@github.com:pelican-themes/papyrus.git
+    ignore = dirty
