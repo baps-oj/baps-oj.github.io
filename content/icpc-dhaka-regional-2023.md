@@ -3,7 +3,7 @@ Date: 2023-11-04
 Category: ICPC
 Slug: 2023-icpc-asia-dhaka-regional-and-baps
 Modified: 2023-11-13
-Tags: icpc
+Tags: icpc, bubt, dhaka-regional
 Authors: BAPS
 Summary: 2023 ICPC Asia Dhaka Regional and BAPS
 
