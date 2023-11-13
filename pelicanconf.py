@@ -1,6 +1,6 @@
 AUTHOR = 'baps-oj@org.com'
 SITENAME = 'baps-engineering-team'
-SITEURL = 'http://127.0.0.1:8000/'
+SITEURL = 'https://baps-oj.github.io'
 
 PATH = "content"
 OUTPUT_PATH="docs"
