@@ -3,6 +3,7 @@ SITENAME = 'baps-engineering-team'
 SITEURL = 'http://127.0.0.1:8000/'
 
 PATH = "content"
+OUTPUT_PATH="docs"
 
 TIMEZONE = 'Asia/Dhaka'
 
@@ -16,6 +17,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = 'theme/papyrus'
 THEME_STATIC_DIR="theme/papyrus/static"
+STATIC_PATHS = [
+    'images',
+    'images/favicon.ico',
+    'extra/robots.txt',
+    ]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'images/favicon.ico': {'path': 'favicon.ico'},
+    }
 
 # Blogroll
 LINKS = (
