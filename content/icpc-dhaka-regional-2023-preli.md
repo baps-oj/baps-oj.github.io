@@ -1,8 +1,8 @@
 Title: What went wrong on ICPC-Asia Dhaka Regional Preli 2023
-Date: 2023-11-04
+Date: 2023-12-24
 Category: ICPC
 Slug: 2023-icpc-asia-dhaka-regional-preliminary
-Modified: 2023-12-24
+Modified: 2023-12-26
 Tags: icpc, bubt, dhaka-regional, preli, tech
 Authors: Mehedi Shafi
 Summary: 2023 ICPC Asia Dhaka Regional Preliminary
